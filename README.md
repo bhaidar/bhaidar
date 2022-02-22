@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="background-color:yellow;">
+<div style="height:100px;width:100px;background-color:yellow;">
   Hi
 </div>
