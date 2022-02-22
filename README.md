@@ -1,8 +1,5 @@
-### Hi there 👋
+![Bilal Haidar](https://user-images.githubusercontent.com/1163421/155201180-f076ce44-5b0a-4196-bfb6-6410dc1af533.jpg)
 
-<div style="backgorund-color:yellow;">
-  Hello   
-</div>
 
 <!--
 **bhaidar/bhaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
