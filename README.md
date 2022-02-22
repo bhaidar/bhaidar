@@ -1,5 +1,12 @@
 ![Bilal Haidar(2)](https://user-images.githubusercontent.com/1163421/155201342-79652378-5819-422d-abda-e0bf66e2344b.jpg)
 
+👋 Hey there, I'm Bilal
+
+- 📫 How to reach me: Twitter (@bhaidar)
+- 💬 Ask me about PHP Laravel, Vue JS, React JS, JavaScript, Google Cloud Platform
+
+
+
 
 
 <!--
