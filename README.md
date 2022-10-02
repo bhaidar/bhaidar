@@ -3,7 +3,7 @@
 👋 Hey there, I'm Bilal
 
 - 📫 How to reach me: Twitter (@bhaidar)
-- 💬 Ask me about PHP Laravel, Vue JS, React JS, JavaScript, Google Cloud Platform
+- 💬 Ask me about PHP Laravel, Vue JS, React JS, JavaScript, and Google Cloud Platform
 
 
 
