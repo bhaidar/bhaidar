@@ -1,25 +1,22 @@
-![Bilal Haidar(2)](https://user-images.githubusercontent.com/1163421/155201342-79652378-5819-422d-abda-e0bf66e2344b.jpg)
-
-👋 Hey there, I'm Bilal
-
-- 📫 How to reach me: Twitter (@bhaidar)
-- 💬 Ask me about PHP Laravel, Vue JS, React JS, JavaScript, and Google Cloud Platform
+Welcome to my GitHub page! 🎉
 
 
+I am Bilal 👋
+
+- I am a full-stack Laravel and VueJS developer
+  -  Passion for creating clean and efficient code
+  -  Enjoy writing engaging content
+  -  I am also a mentor and love to help others learn and grow in their own coding journey
+
+- You'll find a variety of projects here, from personal to professional, including web apps, scripts, and more
+
+- Always looking for new challenges and ways to improve my skills
+
+- Feel free to reach out and collaborate! 🤝
+
+- You can reach me via:
+  - My [profile](https://bio.link/bilalhaidar) website
+  - Contact me on Twitter at [@bhaidar](https://twitter.com/bhaidar)
 
 
-
-<!--
-**bhaidar/bhaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting and I hope you find something that interests you! 🚀
