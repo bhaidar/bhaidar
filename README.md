@@ -25,3 +25,6 @@ You can reach me through the following avenues:
 ## Explore and Enjoy
 
 Thank you for visiting, and I genuinely hope you stumble upon projects that capture your interest and curiosity. Together, let's embark on a journey of innovation and creativity! 🚀
+
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaidar&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaidar&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
