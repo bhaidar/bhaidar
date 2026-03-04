@@ -54,15 +54,5 @@ If your team is building with Laravel and needs guidance or architectural suppor
 
 ---
 
-## 📊 GitHub Stats
-
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaidar&show_icons=true&theme=dracula)
-
-## 🔝 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaidar&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### ✨ Let’s build something impactful together.
 From architecture to deployment — I turn complex challenges into scalable, elegant Laravel solutions.
